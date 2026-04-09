@@ -3,6 +3,9 @@ layout: default
 title: Stride — Legal
 ---
 
-# Stride Legal Documents
+# Stride
 
+Bariatric surgery companion app for iOS.
+
+- [Support](support)
 - [Privacy Policy](privacy)
