@@ -73,7 +73,7 @@ Your data is retained for as long as your account is active. You may request del
 
 To permanently delete your account and all associated data, contact us at:
 
-**stride.forward.support@gmail.com**
+**alfaro.mati47@gmail.com**
 
 Include "Account Deletion Request" in the subject line. We will process your request within 30 days.
 
@@ -95,4 +95,4 @@ We may update this policy from time to time. The "Last updated" date at the top 
 
 For questions or concerns about this privacy policy:
 
-**Email:** stride.forward.support@gmail.com
+**Email:** alfaro.mati47@gmail.com
